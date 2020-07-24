@@ -15,9 +15,9 @@
 
 ## Description
 
-In this project, I manage to solve a common supervised learning problem (comment verification) using python. <br\>
-- Firstly, I am going to try severa data cleaning techniques using regular expressions and built-in python  <br\>
-- Secondly, I will build my initial document-term matrix to feed it to my machine learning models <br\>
+In this project, I manage to solve a common supervised learning problem (comment verification) using python. <br/>
+- Firstly, I am going to try severa data cleaning techniques using regular expressions and built-in python  <br/>
+- Secondly, I will build my initial document-term matrix to feed it to my machine learning models <br/>
 ...
 
 #### Techniques
@@ -25,6 +25,8 @@ In this project, I manage to solve a common supervised learning problem (comment
 - Natural Language Processing (NLP)
 	- Data Cleaning
 	- Exploratory Data Analysis
+	- Machine Learning
+	- Deep Learning
 
 [Back To The Top](#digikala-comment-verification-project)
 
