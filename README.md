@@ -15,11 +15,12 @@
 
 ## Description
 
-In this project, I manage to solve a common supervised learning problem (comment verification) using python. <br/>
-- Firstly, I am going to try severa data cleaning techniques using regular expressions and built-in python  <br/>
-- Secondly, I will build my initial document-term matrix to feed it to my machine learning models <br/>
-- I came across the class-imbalance problem which is common in machine learning problems, so I am going to apply several methods to overcome this problem
-- I implemented Multinigual-BERT because I did not find any persian-bert model that can be useful
+In this project, I manage to solve a common supervised learning problem (comment verification) using python. <br\>
+Generally, I follow a pipeline for each one of my projects and this NLP project is not an exception. The pipeline that I followed can be accessed in the images folder. <br\>
+- Firstly, I am going to try several data cleaning techniques using regular expressions and built-in python methods. <br\>
+- Secondly, I will build my initial document-term matrix to feed it to my machine learning models.<br\>
+- During the project, I came across the class-imbalance problem which is common in machine learning problems, so I am going to apply several methods to overcome this problem. <br\>
+- I implemented Multinigual-BERT because I did not find any Persian-BERT model that can be useful. <br\>
 
 #### Techniques
 
