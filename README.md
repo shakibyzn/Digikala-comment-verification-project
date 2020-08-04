@@ -19,6 +19,7 @@ In this project, I manage to solve a common supervised learning problem (comment
 - Firstly, I am going to try severa data cleaning techniques using regular expressions and built-in python  <br/>
 - Secondly, I will build my initial document-term matrix to feed it to my machine learning models <br/>
 - I came across the class-imbalance problem which is common in machine learning problems, so I am going to apply several methods to overcome this problem
+- I implemented Multinigual-BERT because I did not find any persian-bert model that can be useful
 
 #### Techniques
 
@@ -27,6 +28,7 @@ In this project, I manage to solve a common supervised learning problem (comment
 	- Exploratory Data Analysis
 	- Machine Learning
 	- Deep Learning
+	- Text Classification
 
 [Back To The Top](#digikala-comment-verification-project)
 
